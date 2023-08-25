@@ -17,3 +17,8 @@ Essay:
 
 My essay is responding to the third prompt "Privacy in the Age of AI: Navigating the Ethical Dimensions of Machine
 Learning"
+
+Refrences:
+
+Tech with Tim
+Jake JP python
